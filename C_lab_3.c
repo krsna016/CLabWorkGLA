@@ -1,9 +1,9 @@
 /* 
 Write a program in C to swap two numbers using the third variable?
 (Please provide the integer value.)
+Student name : Anurag pareek
+sec : J-1
 */
-
-
 # include <stdio.h>
 int main()
 {
