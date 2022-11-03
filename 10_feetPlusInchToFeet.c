@@ -3,7 +3,7 @@
  * inches are converted into corresponding feet ?
 
  * Student name : Anurag pareek
- * Sec : J
+ * Sec : J-1
  * Contact : anurag020416@gmail.com
  */
 
