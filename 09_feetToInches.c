@@ -1,8 +1,10 @@
 /*
-Write a program in C to convert "feet" into corresponding "inches" ?
-Student name : Anurag pareek
-Sec : J
-*/
+ * Write a program in C to convert "feet" into corresponding "inches" ?
+
+ * Student name : Anurag pareek
+ * Sec : J
+ * Contact : anurag020416@gmail.com
+ */
 
 # include <stdio.h>
 int main()

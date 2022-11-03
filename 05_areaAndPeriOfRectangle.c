@@ -1,10 +1,13 @@
 /*
-Write a program in C to find the area and perimeter 
-of a rectangle whose length and width are input by the user?
-(User can type int as well as float.)
-Student name : Anurag pareek
-Sec : J-1
-*/
+ * Write a program in C to find the area and perimeter 
+ * of a rectangle whose length and width are input by the user?
+ * (User can type int as well as float.)
+ 
+ * Student name : Anurag pareek
+ * Sec : J-1
+ * Contact : anurag020416@gmail.com
+ */
+
 # include <stdio.h>
 int main()
 {

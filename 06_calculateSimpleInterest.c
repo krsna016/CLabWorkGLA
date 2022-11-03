@@ -1,11 +1,13 @@
 /* 
-Write a program in C to find the simple intrest based on 
-a user given principal,rate and time? 
-(User can input int as well as float.)
-(We know, SIMPLE INTREST = (PRINCIPAL*RATE*TIME)/100)
-Student name : Anurag pareek
-Sec : J-1
-*/
+ * Write a program in C to find the simple intrest based on 
+ * a user given principal,rate and time? 
+ * (User can input int as well as float.)
+ * (We know, SIMPLE INTREST = (PRINCIPAL*RATE*TIME)/100)
+
+ * Student name : Anurag pareek
+ * Sec : J-1
+ */
+
 # include <stdio.h>
 int main()
 {

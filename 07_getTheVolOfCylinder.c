@@ -1,9 +1,11 @@
 /*
-Write a program in C to find the volume of a cylinder upto two
-decimal places.
-Student name : Anurag pareek
-Sec : J
-*/
+ * Write a program in C to find the volume of a cylinder upto two
+ * decimal places ?
+ 
+ * Student name : Anurag pareek
+ * Sec : J
+ * Contact : anurag020416@gmail.com
+ */
 
 # include <stdio.h>
 int main()

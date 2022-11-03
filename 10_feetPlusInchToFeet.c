@@ -1,9 +1,11 @@
 /*
-Write a program in C to add "feet" and "inches" together such that
-inches are converted into corresponding feet ?
-Student name : Anurag pareek
-Sec : J
-*/
+ * Write a program in C to add "feet" and "inches" together such that
+ * inches are converted into corresponding feet ?
+
+ * Student name : Anurag pareek
+ * Sec : J
+ * Contact : anurag020416@gmail.com
+ */
 
 # include <stdio.h>
 int main()

@@ -1,9 +1,12 @@
 /*
-Write a program in C to convert CELCIUS into FARENHEIT and
-viceversa depending upon users choice ? 
-Student name : Anurag pareek
-Sec : J
-*/
+ * Write a program in C to convert CELCIUS into FARENHEIT and
+ * viceversa depending upon users choice ? 
+ 
+ * Student name : Anurag pareek
+ * Sec : J
+ * Contact : anurag020416@gmail.com
+ */
+
 # include <math.h>
 # include <stdio.h>
 int main()

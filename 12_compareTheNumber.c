@@ -1,9 +1,12 @@
 /*
-Write a program in C to check whether a entered number is
-"greater than" or "lesser than" or "equals to" the other number ?
-Student name : Anurag pareek
-Sec : J
-*/
+ * Write a program in C to check whether a entered number is
+ * "greater than" or "lesser than" or "equals to" the other number ?
+ 
+ * Student name : Anurag pareek
+ * Sec : J
+ * Contact : anurag020416@gmail.com
+ */
+
 # include <stdio.h>
 int main()
 {
