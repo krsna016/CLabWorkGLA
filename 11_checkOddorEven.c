@@ -2,7 +2,7 @@
  * Write a program in C to check whether a number is "ODD or "EVEN" ? 
 
  * Student name : Anurag pareek
- * Sec : J
+ * Sec : J-1
  * Contact : anurag020416@gmail.com
  */
 
